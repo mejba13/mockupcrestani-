@@ -1,7 +1,7 @@
 <template>
     <Layout>
         <!--section 1-->
-      <figure class="">
+      <figure class="logo">
           <g-image src="https://i.imgur.com/ZT0CHO5.png"></g-image>
       </figure>
       <br/>
