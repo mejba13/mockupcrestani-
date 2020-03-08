@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+html, body {
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+
+.firstpart {
+    font-family: Ranga, Helvetica, sans-serif !important;
+    padding: 50px 15px;
+    border-color: rgb(1, 49, 97);
+    background-color: rgb(1, 49, 97);
+    color: rgb(255, 255, 255);
+    background-image: url(https://images.clickfunnels.com/cb/2153129…/John-Crestani-BG2.png);
+}
+
+.mailinputfiled {
+    padding: 0 400px;
+}
+
+.headertext1 {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+
+h1.headertext2 {
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(178, 157, 96);
+}
+
+p.headertext22 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #b19d60;
+    margin-top: -20px;
+}
+.headertext3 {
+    font-family: Sriracha;
+    color: white;
+    font-style: oblique;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+b.textderation {
+    text-decoration: underline;
+}
+
+p.headertext4 {
+    font-weight: 500;
+    font-style: oblique;
+    font-size: 16px;
+}
+
+.secondpart {
+    padding: 20px 0px;
+    background: #DF7A1E;
+}
+
+.sectext1 {
+    line-height: normal;
+    font-size: 38px;
+    padding: 11px 146px;
+    font-weight: bold;
+    font-style: oblique;
+    color: white;
+}
+
+.sectext2 {
+    font-size: 22px;
+    padding: 24px 100px;
+    color: white;
+    word-spacing: -1.5px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.videocloum {
+    padding: 20px;
+}
+
+h2.offtext1 {
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    font-style: italic;
+    font-weight: 600;
+}
+
+h1.offtext2 {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: oblique;
+}
+
+.sendbook{
+    background-color: #df7a1e!important;
+}
+.sendbook:hover{
+    background-color: black!important;
+}
+
+h1.prooftext {
+    font-size: 40px;
+    padding: 0px 0px;
+    text-decoration: underline;
+    font-weight: 700;
+    color: #df7a1e;
+    font-style: italic;
+}
+
+.footerpart {
+    padding: 27px 10px;
+    background: #df7a1e;
+    color: white;
+    font-size: 23px;
+}
+
+.footericon{
+    padding: 0 20px;
+}
+
+/*Responsive */
+@media only screen and (max-width: 990px) {
+  .sectext1 {
+    font-size: 21px;
+    padding: 9px 18px;
+  }
+  .sectext2 {
+    font-size: 16px;
+    padding: 5px 10px;
+    color: white;
+    word-spacing: -1.5px;
+    font-weight: 700;
+    font-style: italic;
+ }
+
+ .mailinputfiled {
+    padding: 0 5px;
+}
+
+ h1.headertext2 {
+    font-size: 35px;
+ }
+ p.headertext22 {
+    font-size: 35px;
+ }
+
+}
