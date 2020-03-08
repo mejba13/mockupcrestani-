@@ -1,19 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 html, body {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: "Montserrat", Helvetica, sans-serif !important; 
     margin: 0;
     padding: 0;
     line-height: 1.5;
 }
 
-figure.logo {
-    padding: 0px 10px;
-    margin-top: 13px;
-}
-
-.firstpart {
-    font-family: Ranga, Helvetica, sans-serif !important;
+#section2,#section4 {
     padding: 50px 15px;
     border-color: rgb(1, 49, 97);
     background-color: rgb(1, 49, 97);
@@ -21,24 +15,20 @@ figure.logo {
     background-image: url(https://images.clickfunnels.com/cb/2153129…/John-Crestani-BG2.png);
 }
 
-.mailinputfiled {
-    padding: 0 400px;
-}
-
 .headertext1 {
-    font-size: 25px;
+    font-size: 32px;
     color: white;
     font-weight: bold;
 }
 
-h1.headertext2 {
-    font-size: 50px;
+.headertext2 {
+    font-size: 65px;
     font-weight: bold;
     color: rgb(178, 157, 96);
 }
 
-p.headertext22 {
-    font-size: 50px;
+.headertext22 {
+    font-size: 53px;
     font-weight: bold;
     color: #b19d60;
     margin-top: -20px;
@@ -47,37 +37,29 @@ p.headertext22 {
     font-family: Sriracha;
     color: white;
     font-style: oblique;
-    font-size: 32px;
+    font-size: 41px;
     font-weight: 800;
 }
 
-b.textderation {
-    text-decoration: underline;
-}
-
-p.headertext4 {
+.headertext4 {
     font-weight: 500;
     font-style: oblique;
-    font-size: 16px;
+    font-size: 20px;
 }
 
-.secondpart {
-    padding: 20px 0px;
+#section3 {
     background: #DF7A1E;
 }
 
 .sectext1 {
     line-height: normal;
-    font-size: 38px;
-    padding: 11px 146px;
+    font-size: 42px;
     font-weight: bold;
     font-style: oblique;
     color: white;
 }
-
 .sectext2 {
     font-size: 22px;
-    padding: 24px 100px;
     color: white;
     word-spacing: -1.5px;
     font-weight: 700;
@@ -88,7 +70,13 @@ p.headertext4 {
     padding: 20px;
 }
 
-h2.offtext1 {
+.offtext2 {
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: oblique;
+}
+.offtext1 {
     padding: 10px;
     font-size: 20px;
     color: white;
@@ -96,28 +84,29 @@ h2.offtext1 {
     font-weight: 600;
 }
 
-h1.offtext2 {
+.secondpart {
+    padding: 20px 0px;
+    background: #DF7A1E;
+}
+
+.sendbook {
+    background: #df7a1e;
+    border: 1px solid #ffffff;
+    font-weight: bold;
     color: white;
-    font-size: 30px;
-    font-weight: 700;
-    font-style: oblique;
+    font-style: italic;
 }
 
-.sendbook{
-    background-color: #df7a1e!important;
-}
-.sendbook:hover{
-    background-color: black!important;
-}
-
-h1.prooftext {
-    font-size: 40px;
+.prooftext {
+    font-size: 49px;
     padding: 0px 0px;
     text-decoration: underline;
     font-weight: 700;
     color: #df7a1e;
     font-style: italic;
+    text-decoration-color: #013161;
 }
+
 
 .footerpart {
     padding: 27px 10px;
@@ -126,34 +115,19 @@ h1.prooftext {
     font-size: 23px;
 }
 
-.footericon{
-    padding: 0 20px;
+.textderation {
+    text-decoration: underline;
 }
 
 /*Responsive */
 @media only screen and (max-width: 990px) {
-  .sectext1 {
-    font-size: 21px;
-    padding: 9px 18px;
-  }
-  .sectext2 {
-    font-size: 16px;
-    padding: 5px 10px;
-    color: white;
-    word-spacing: -1.5px;
-    font-weight: 700;
-    font-style: italic;
- }
-
- .mailinputfiled {
-    padding: 0 5px;
-}
-
- h1.headertext2 {
-    font-size: 35px;
- }
- p.headertext22 {
-    font-size: 35px;
- }
+    .headertext2 {
+      font-size: 35px;
+    }
+    .headertext22 {
+        font-size: 35px;
+    }
 
 }
+
+
