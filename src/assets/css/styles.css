@@ -31,7 +31,7 @@ html, body {
     font-size: 53px;
     font-weight: bold;
     color: #b19d60;
-    margin-top: -20px;
+
 }
 .headertext3 {
     font-family: Sriracha;
@@ -53,13 +53,13 @@ html, body {
 
 .sectext1 {
     line-height: normal;
-    font-size: 42px;
+    font-size: 65px;
     font-weight: bold;
     font-style: oblique;
     color: white;
 }
 .sectext2 {
-    font-size: 22px;
+    font-size: 35px;
     color: white;
     word-spacing: -1.5px;
     font-weight: 700;
@@ -107,11 +107,9 @@ html, body {
     text-decoration-color: #013161;
 }
 
-
 .footerpart {
-    padding: 27px 10px;
-    background: #df7a1e;
-    color: white;
+    background: black;
+    color: #ff5400;
     font-size: 23px;
 }
 
@@ -121,12 +119,7 @@ html, body {
 
 /*Responsive */
 @media only screen and (max-width: 990px) {
-    .headertext2 {
-      font-size: 35px;
-    }
-    .headertext22 {
-        font-size: 35px;
-    }
+
 
 }
 

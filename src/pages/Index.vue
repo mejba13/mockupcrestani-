@@ -2,8 +2,8 @@
     <Layout>
 
         <!--section 1-->
-        <section id="section1" class="section">
-            <div class="container">
+        <section id="section1" class="section has-text-centered">
+            <div class="container ">
                 <figure class="logo">
                     <g-image src="https://i.imgur.com/ZT0CHO5.png"></g-image>
                 </figure>
@@ -13,11 +13,11 @@
         <!--section 2-->
         <section id="section2" class="section has-text-centered">
             <div class="container ">
-                <h2 class="headertext1 is-size-5-mobile">Start Designing The Life Of Your Dreams</h2>
-                <h1 class="headertext2 ">By Earning $10,000.00</h1>
-                <p class="headertext22">Extra Per Month</p>
-                <h4 class="headertext3 is-size-4-mobile">With lust <b class="textderation">4 Hours </b> Of Work A Week </h4>
-                <p  class="headertext4">(... You Can Do This Completely On The Side!) </p>
+                <h2 class="headertext1 is-size-6-mobile">Start Designing The Life Of Your Dreams</h2>
+                <h1 class="headertext2 is-size-4-mobile">By Earning $10,000.00</h1>
+                <p class="headertext22 is-size-4-mobile">Extra Per Month</p>
+                <h4 class="headertext3 is-size-5-mobile">With lust <b class="textderation">4 Hours </b> Of Work A Week </h4>
+                <p  class="headertext4 is-size-6-mobile">(... You Can Do This Completely On The Side!) </p>
             </div>
         </section>
 
@@ -25,14 +25,14 @@
         <section id="section3" class="section has-text-centered">
             <div class="container">
                 <div class="columns is-mobile is-centered">
-                  <div class="column is-two-thirds">
-                    <h1 class="sectext1 is-size-4-mobile">My #1 Handpicked Best Affiliate Program That Pays Monthly Recurring Commision! </h1>
+                  <div class="column is-two-fourth">
+                    <h1 class="sectext1 is-size-5-mobile">My #1 Handpicked Best Affiliate Program That Pays Monthly Recurring Commision! </h1>
                   </div>
                 </div>
 
                 <div class="columns is-mobile is-centered">
-                  <div class="column is-two-thirds">
-                    <h2 class="sectext2 is-size-5-mobile">Stop Losing Your Hard Earned Money & Wasting Your Precious Time To Find The Best Affiliate Program!</h2>
+                  <div class="column is-two-fourth">
+                    <h2 class="sectext2 is-size-6-mobile">Stop Losing Your Hard Earned Money & Wasting Your Precious Time To Find The Best Affiliate Program!</h2>
                   </div>
                 </div>
                   
@@ -49,7 +49,7 @@
                     </div>
                   </div>
                   <h2 class="offtext1 is-size-5-mobile">"THE AFFILIATE MARKETING BLUEPRINT" </h2>
-                  <h1 class="offtext2 is-size-4-mobile">Take Your FREE Copy NOW! </h1>
+                  <h1 class="offtext2 is-size-6-mobile">Take Your FREE Copy NOW! </h1>
             </div>
         </section>
 
@@ -62,12 +62,12 @@
                       <div class="field ">
                         <div class="field">
                           <div class="control">
-                            <input class="input is-large" type="text" placeholder="Enter your email address here... ">
+                            <input class=" is-size-6-mobile input is-large" type="text" placeholder="Enter your email address here... ">
                           </div>
                         </div>
                       </div>
                       <div class="has-text-centered">
-                        <button class="button is-large is-fullwidth sendbook">YES! GIVE ME MY FREE COPY NOW!</button>
+                        <button class="button is-size-6-mobile is-large is-fullwidth sendbook">YES! GIVE ME MY FREE COPY NOW!</button>
                       </div>
                     </div>
                   </div>
